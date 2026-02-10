@@ -13,4 +13,4 @@ SQL – Aggregations, CASE statements, subqueries, GROUP BY
 
 DAX – Measures and calculated fields
 
-Excel – Initial data review (optional)
+Excel – Initial data review
